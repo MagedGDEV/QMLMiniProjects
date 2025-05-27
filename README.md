@@ -1,3 +1,13 @@
-# QMLMiniProjects
+# Clock
 
-This repository features a collection of self-contained mini projects built with QML, each demonstrating different capabilities and concepts of QML development. These projects serve as practical examples to explore QML's declarative syntax, UI design, animations, data handling, and integration with C++.
+This is a simple application that simulates an **analog clock** by animating its hands to represent the passage of time.
+
+![The Clock App](ClockApp.gif)
+
+## Concepts Practiced
+
+- Loading and displaying images
+- Applying scaling transformations
+- Using rotation and animations
+- Working with core QML elements
+- Positioning items using x and y coordinates
